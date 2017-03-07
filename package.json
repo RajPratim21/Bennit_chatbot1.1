@@ -1,0 +1,23 @@
+{
+  "name": "secretbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "4.13.4",
+    "express-csv": "0.6.0",
+    "express-session": "^1.14.1",
+    "express-ws": "^2.0.0",
+    "http-post": "^0.1.1",
+    
+     "request": "^2.71.0"
+  
+  }
+}
